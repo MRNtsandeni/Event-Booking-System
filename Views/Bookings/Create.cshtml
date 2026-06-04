@@ -1,0 +1,69 @@
+﻿@model BookingSystem.ViewModels.BookingViewModel
+
+@{
+    ViewData["Title"] = "Create Booking";
+}
+
+@if (TempData["Error"] != null)
+{
+    <div class="alert alert-danger alert-dismissible fade show" role="alert">
+        <strong>Error!</strong> @TempData["Error"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+
+<h1>Create Booking</h1>
+
+<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+<form asp-action="Create">
+
+    <div class="form-group">
+        <label asp-for="SelectedEventID" class="control-label">Select Event</label>
+        <select asp-for="SelectedEventID" asp-items="Model.Events" class="form-control">
+            <option value="">-- Select an Event --</option>
+        </select>
+        <span asp-validation-for="SelectedEventID" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="SelectedVenueID" class="control-label">Select Venue</label>
+        <select asp-for="SelectedVenueID" asp-items="Model.Venues" class="form-control">
+            <option value="">-- Select a Venue --</option>
+        </select>
+        <span asp-validation-for="SelectedVenueID" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="SelectedEventTypeID" class="control-label">Event Type</label>
+        <select asp-for="SelectedEventTypeID" asp-items="Model.EventTypes" class="form-control">
+            <option value="">-- Select Event Type --</option>
+        </select>
+        <span asp-validation-for="SelectedEventTypeID" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="StartDate" class="control-label"></label>
+        <input asp-for="StartDate" class="form-control" type="datetime-local" step="60" />
+        <span asp-validation-for="StartDate" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="EndDate" class="control-label"></label>
+        <input asp-for="EndDate" class="form-control" type="datetime-local" step="60" />
+        <span asp-validation-for="EndDate" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-success mt-3">Confirm Booking</button>
+
+    <div class="mt-2">
+        <a asp-action="Index">Back to List</a>
+    </div>
+</form>
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

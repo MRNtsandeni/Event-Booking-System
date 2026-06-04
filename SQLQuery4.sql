@@ -1,0 +1,1 @@
+﻿UPDATE Events SET EventTypeID = 1 WHERE EventTypeID IS NULL;

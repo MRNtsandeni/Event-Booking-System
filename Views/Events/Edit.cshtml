@@ -1,0 +1,59 @@
+﻿@model BookingSystem.Models.Event
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit Event</h1>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="EventID" />
+            <input type="hidden" asp-for="ImageUrl" />
+
+            <div class="form-group">
+                <label asp-for="EventName" class="control-label"></label>
+                <input asp-for="EventName" class="form-control" />
+                <span asp-validation-for="EventName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Description" class="control-label"></label>
+                <textarea asp-for="Description" class="form-control"></textarea>
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="EventDate" class="control-label">Event Date and Time</label>
+                <input asp-for="EventDate" type="datetime-local" class="form-control" />
+                <span asp-validation-for="EventDate" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="EventTypeID" class="control-label"></label>
+                <select asp-for="EventTypeID" class="form-control" asp-items="ViewBag.EventTypeID"></select>
+            </div>
+
+            <div class="form-group mt-3">
+                <label class="control-label">Update Event Image</label>
+                <input name="ImageUpload" type="file" class="form-control" />
+            </div>
+
+            <div class="form-group mt-3">
+                <input type="submit" value="Save" class="btn btn-primary" />
+                <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Downloads\\cldv6211-g1-2026-part2-Ntsandeni-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28F82C37-3296-2D60-B2F4-E493C7B6F810}|BookingSystem.csproj|c:\\users\\lab_services_student\\downloads\\cldv6211-g1-2026-part2-ntsandeni-master\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{28F82C37-3296-2D60-B2F4-E493C7B6F810}|BookingSystem.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28F82C37-3296-2D60-B2F4-E493C7B6F810}|BookingSystem.csproj|c:\\users\\lab_services_student\\downloads\\cldv6211-g1-2026-part2-ntsandeni-master\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28F82C37-3296-2D60-B2F4-E493C7B6F810}|BookingSystem.csproj|solutionrelative:controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28F82C37-3296-2D60-B2F4-E493C7B6F810}|BookingSystem.csproj|c:\\users\\lab_services_student\\downloads\\cldv6211-g1-2026-part2-ntsandeni-master\\views\\events\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28F82C37-3296-2D60-B2F4-E493C7B6F810}|BookingSystem.csproj|solutionrelative:views\\events\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28F82C37-3296-2D60-B2F4-E493C7B6F810}|BookingSystem.csproj|c:\\users\\lab_services_student\\downloads\\cldv6211-g1-2026-part2-ntsandeni-master\\views\\events\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28F82C37-3296-2D60-B2F4-E493C7B6F810}|BookingSystem.csproj|solutionrelative:views\\events\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28F82C37-3296-2D60-B2F4-E493C7B6F810}|BookingSystem.csproj|c:\\users\\lab_services_student\\downloads\\cldv6211-g1-2026-part2-ntsandeni-master\\views\\events\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28F82C37-3296-2D60-B2F4-E493C7B6F810}|BookingSystem.csproj|solutionrelative:views\\events\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28F82C37-3296-2D60-B2F4-E493C7B6F810}|BookingSystem.csproj|c:\\users\\lab_services_student\\downloads\\cldv6211-g1-2026-part2-ntsandeni-master\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28F82C37-3296-2D60-B2F4-E493C7B6F810}|BookingSystem.csproj|solutionrelative:models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28F82C37-3296-2D60-B2F4-E493C7B6F810}|BookingSystem.csproj|c:\\users\\lab_services_student\\downloads\\cldv6211-g1-2026-part2-ntsandeni-master\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28F82C37-3296-2D60-B2F4-E493C7B6F810}|BookingSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\cldv6211-g1-2026-part2-Ntsandeni-master\\Views\\Events\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Events\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\cldv6211-g1-2026-part2-Ntsandeni-master\\Views\\Events\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Events\\Edit.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-04T10:48:10.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventsController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\cldv6211-g1-2026-part2-Ntsandeni-master\\Controllers\\EventsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EventsController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\cldv6211-g1-2026-part2-Ntsandeni-master\\Controllers\\EventsController.cs",
+              "RelativeToolTip": "Controllers\\EventsController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T10:05:51.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\cldv6211-g1-2026-part2-Ntsandeni-master\\Views\\Events\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Events\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\cldv6211-g1-2026-part2-Ntsandeni-master\\Views\\Events\\Index.cshtml",
+              "RelativeToolTip": "Views\\Events\\Index.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAIwDQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-04T10:03:35.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\cldv6211-g1-2026-part2-Ntsandeni-master\\Views\\Events\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Events\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\cldv6211-g1-2026-part2-Ntsandeni-master\\Views\\Events\\Create.cshtml",
+              "RelativeToolTip": "Views\\Events\\Create.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwC8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-04T10:03:11.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\cldv6211-g1-2026-part2-Ntsandeni-master\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "Models\\Event.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\cldv6211-g1-2026-part2-Ntsandeni-master\\Models\\Event.cs",
+              "RelativeToolTip": "Models\\Event.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T10:02:48.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\cldv6211-g1-2026-part2-Ntsandeni-master\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\cldv6211-g1-2026-part2-Ntsandeni-master\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAADAAAACmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T09:06:11.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\cldv6211-g1-2026-part2-Ntsandeni-master\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\cldv6211-g1-2026-part2-Ntsandeni-master\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-04T08:25:43.731Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
