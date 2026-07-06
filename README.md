@@ -62,11 +62,12 @@ You can view the application in action here:
 ## Application Screenshots
 
 ### The "Go Live" Migration
-<img width="940" height="450" alt="Go Live Migration - View 1" src="https://github.com/userattachments/assets/74ca17a7-8e0e-4dc9-970c-10bf079cbf5f" /> 
 
-<img width="940" height="448" alt="Go Live Migration - View 2" src="https://github.com/userattachments/assets/2d072d38-91bc-41cf-beaa-363112c0f453" /> 
+<img width="940" height="450" alt="image" src="https://github.com/userattachments/assets/74ca17a7-8e0e-4dc9-970c-10bf079cbf5f" /> 
 
-<img width="940" height="257" alt="Go Live Migration - View 3" src="https://github.com/userattachments/assets/5e8debdd-2e2d-42b8-bdf4-408f89066995" /> 
+<img width="940" height="448" alt="image" src="https://github.com/userattachments/assets/2d072d38-91bc-41cf-beaa-363112c0f453" /> 
+
+<img width="940" height="257" alt="image" src="https://github.com/userattachments/assets/5e8debdd-2e2d-42b8-bdf4-408f89066995" /> 
 
 ### Live Deployment & Dropping of Resources
 <img width="940" height="478" alt="Live Deployment - View 1" src="https://github.com/userattachments/assets/5017368c-0abe-4fad-8658-26a29213a65a" /> 
