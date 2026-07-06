@@ -64,9 +64,26 @@ You can view the application in action here:
 
 <img width="602" height="287" alt="Picture2" src="https://github.com/user-attachments/assets/259b6298-d67a-483d-995f-440018c4defd" />
 
-![Uploading Picture3.png…]()
+<img width="602" height="165" alt="Picture3" src="https://github.com/user-attachments/assets/2ef28480-a6c3-4f1d-9d3c-45a3d5790ca6" />
 
 
 ### Live Deployment & Dropping of Resources
-![Live Deployment - View 1](images/deployment1.png)
-![Live Deployment - View 2](images/deployment2.png)
+
+<img width="602" height="306" alt="Picture5" src="https://github.com/user-attachments/assets/fe544c95-20e0-43d7-8200-32c7c0ff8688" />
+
+<img width="752" height="381" alt="Picture6" src="https://github.com/user-attachments/assets/4c695465-549d-4f67-ba3e-e71d8ef2afe2" />
+
+<img width="602" height="203" alt="Picture7" src="https://github.com/user-attachments/assets/4d90c47d-fe09-469d-8dc9-9bbe193957da" />
+
+<img width="602" height="270" alt="Picture8" src="https://github.com/user-attachments/assets/2668d352-f7d8-416b-aaff-323f1393efac" />
+
+<img width="440" height="112" alt="Picture9" src="https://github.com/user-attachments/assets/18992fb2-1f34-48fb-9fff-1acd6aa73f04" />
+
+<img width="602" height="267" alt="Picture10" src="https://github.com/user-attachments/assets/8f6cbcd8-1843-4f98-9d88-c828a61f5f7f" />
+
+
+
+
+
+
+
