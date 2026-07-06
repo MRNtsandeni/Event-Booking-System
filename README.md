@@ -55,7 +55,7 @@ The application is architected for the Azure PaaS ecosystem. Using the Visual St
 
 ### Project Demonstration
 You can view the application in action here:
-* **YouTube Link:** [Watch the Demonstration Video](https://youtu.be)
+* **YouTube Link:** [Watch the Demonstration Video](https://youtu.be/h1alEdT6kdI?si=N3tQgh-H2OSXgQfy)
 
 ---
 
