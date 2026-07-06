@@ -59,24 +59,11 @@ You can view the application in action here:
 
 ---
 
-## Application Screenshots
-
 ### The "Go Live" Migration
-![Go Live Migration - View 1](https://github.com)
-
-![Go Live Migration - View 2](https://github.com)
-
-![Go Live Migration - View 3](https://github.com)
+![Go Live Migration - View 1](images/migration1.png)
+![Go Live Migration - View 2](images/migration2.png)
+![Go Live Migration - View 3](images/migration3.png)
 
 ### Live Deployment & Dropping of Resources
-![Live Deployment - View 1](https://github.com)
-
-![Live Deployment - View 2](https://github.com)
-
-![Live Deployment - View 3](https://github.com)
-
-![Live Deployment - View 4](https://github.com)
-
-![Live Deployment - View 5](https://github.com)
-
-![Live Deployment - View 6](https://github.com)
+![Live Deployment - View 1](images/deployment1.png)
+![Live Deployment - View 2](images/deployment2.png)
