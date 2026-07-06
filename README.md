@@ -55,29 +55,28 @@ The application is architected for the Azure PaaS ecosystem. Using the Visual St
 
 ### Project Demonstration
 You can view the application in action here:
-* **YouTube Link:** [Watch the Demonstration Video](https://youtu.be/h1alEdT6kdI?si=VOKDpsA-U6rhWnMr)
+* **YouTube Link:** [Watch the Demonstration Video](https://youtu.be)
 
 ---
 
 ## Application Screenshots
 
 ### The "Go Live" Migration
+![Go Live Migration - View 1](https://github.com)
 
-<img width="940" height="450" alt="image" src="https://github.com/userattachments/assets/74ca17a7-8e0e-4dc9-970c-10bf079cbf5f" /> 
+![Go Live Migration - View 2](https://github.com)
 
-<img width="940" height="448" alt="image" src="https://github.com/userattachments/assets/2d072d38-91bc-41cf-beaa-363112c0f453" /> 
-
-<img width="940" height="257" alt="image" src="https://github.com/userattachments/assets/5e8debdd-2e2d-42b8-bdf4-408f89066995" /> 
+![Go Live Migration - View 3](https://github.com)
 
 ### Live Deployment & Dropping of Resources
-<img width="940" height="478" alt="Live Deployment - View 1" src="https://github.com/userattachments/assets/5017368c-0abe-4fad-8658-26a29213a65a" /> 
+![Live Deployment - View 1](https://github.com)
 
-<img width="940" height="476" alt="Live Deployment - View 2" src="https://github.com/userattachments/assets/f223180f-0968-4756-ba5e-d6c068217fd4" /> 
+![Live Deployment - View 2](https://github.com)
 
-<img width="940" height="316" alt="Live Deployment - View 3" src="https://github.com/userattachments/assets/0de6813a-addb-4fcc-88c0-621624b02bc6" /> 
+![Live Deployment - View 3](https://github.com)
 
-<img width="688" height="175" alt="Live Deployment - View 4" src="https://github.com/userattachments/assets/5465d9aa-b518-4c0b-a189-9ea92f1b33be" /> 
+![Live Deployment - View 4](https://github.com)
 
-<img width="940" height="417" alt="Live Deployment - View 5" src="https://github.com/userattachments/assets/bca4d923-6c4e-40a8-b9c0-8fececc0a20e" /> 
+![Live Deployment - View 5](https://github.com)
 
-<img width="940" height="422" alt="Live Deployment - View 6" src="https://github.com/userattachments/assets/068420df-57fc-4824-8072-9026b091f2cf" />
+![Live Deployment - View 6](https://github.com)
