@@ -70,7 +70,7 @@ Demonstration: You can view the application in action here:
 
 YouTube Link: https://youtu.be/h1alEdT6kdI?si=VOKDpsA-U6rhWnMr 
 
-The "Go Live" Migration/ Screenshots 
+The "Go Live" Migration/ Screenshots:
 
 <img width="940" height="450" alt="image" src="https://github.com/userattachments/assets/74ca17a7-8e0e-4dc9-970c-10bf079cbf5f" /> 
 
@@ -78,7 +78,7 @@ The "Go Live" Migration/ Screenshots
 
 <img width="940" height="257" alt="image" src="https://github.com/userattachments/assets/5e8debdd-2e2d-42b8-bdf4-408f89066995" /> 
 
-Live Deployment and dropping of resources 
+Live Deployment and dropping of resources:
 
 <img width="940" height="478" alt="image" src="https://github.com/userattachments/assets/5017368c-0abe-4fad-8658-26a29213a65a" /> 
 
